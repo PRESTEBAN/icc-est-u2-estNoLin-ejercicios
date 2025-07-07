@@ -14,6 +14,6 @@ public class InvertBinaryTree{
         root.setLeft(invertTree(root.getRight()));
         root.setRight(invertTree(nodoTemporal));
         
-        return null;
+        return root;
     }
 }
