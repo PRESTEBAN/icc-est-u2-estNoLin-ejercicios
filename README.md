@@ -10,7 +10,6 @@
 - **Profesor:** Ing. Pablo Torres  
 
 ---
-
 ## 🛠️ Descripción
 
 Este proyecto implementa operaciones fundamentales sobre árboles binarios de búsqueda (BST) en Java. Incluye el desarrollo y demostración de:
